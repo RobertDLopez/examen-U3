@@ -1,0 +1,9 @@
+{
+	"name": "pizarron",
+	"version": 0.01,
+	"private": true,
+	"dependencies": {
+		"express": "^4.16.3",
+		"socket.io": "latest"
+	}
+}
